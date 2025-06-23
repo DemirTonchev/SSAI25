@@ -1,4 +1,4 @@
-# Agents SS25 Environment Setup
+# Summer School 25 Agents Environment Setup
 
 This project provides two ways to set up the development environment: using Conda or Pixi. Choose the method that works best for your workflow.
 
