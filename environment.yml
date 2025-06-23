@@ -1,0 +1,11 @@
+name: agents-ss25
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- python 3.13.*
+- jupyter *
+- pip
+- pip:
+  - google-adk
+  - pydantic>=2
