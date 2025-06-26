@@ -79,6 +79,10 @@ conda env remove -n agents-ss25
 conda env update -f environment.yml
 ```
 
+## env file
+
+create a file named ".env" in the root folder.
+
 ## Troubleshooting
 
 - **Conda**: If you encounter package conflicts, try creating a fresh environment
