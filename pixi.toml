@@ -10,3 +10,4 @@ jupyter = "*"
 [pypi-dependencies]
 google-adk = "*"
 pydantic = ">=2"
+litellm = ">=1.73.1, <2"
